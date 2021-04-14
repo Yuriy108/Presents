@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Presents</string>
+    <string name="Начать">Начать</string>
+    <string-array name="age">
+        <item>0-2</item>
+        <item>2-5</item>
+        <item>5-8</item>
+        <item>8-11</item>
+        <item>11-15</item>
+        <item>15-18</item>
+        <item>18-23</item>
+        <item>23-30</item>
+        <item>30-45</item>
+        <item>45-55</item>
+        <item>55-65</item>
+        <item>65+</item>
+
+
+    </string-array>
+    <string-array name="money">
+        <item>Бесплатно</item>
+        <item>200-400</item>
+        <item>400-600</item>
+        <item>600+</item>
+
+
+    </string-array>
+</resources>
